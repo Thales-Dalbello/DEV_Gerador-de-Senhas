@@ -1,0 +1,1 @@
+# DEV_Gerador-de-Senhas
